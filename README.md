@@ -1,5 +1,5 @@
 # Practical Exam 1: Popeyes Point-of-Sale System
-`This program was made in compliance for the Practical Exam 1 requirement of LBOEC2A`<br/>
+`This program was made in compliance with the Practical Exam 1 requirement of LBOEC2A`<br/>
 `Submitted on November 2, 2022`
 
 **Restaurant: Point-of-Sales System**
